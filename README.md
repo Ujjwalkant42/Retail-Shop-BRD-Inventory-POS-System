@@ -1,6 +1,5 @@
 # Retail-Shop-BRD-Inventory-POS-System
 Business Requirements Document (BRD) for a Retail Shop System covering inventory, POS, loyalty program, online store integration, sales analytics, employee management, customer support, security, and promotions. Includes requirement IDs, priorities, stakeholders, and functional requirements.
-# Retail Shop System – Business Requirements Document (BRD)
 
 This repository contains a Business Requirements Document (BRD) for the implementation of a modern Retail Shop System. The document defines the functional requirements, priorities, and stakeholders needed to optimize store operations and enhance customer experience.
 
